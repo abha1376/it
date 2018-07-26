@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chemistry"
+    android:orientation="vertical"
+    android:background="#000000">
+    <Button
+        android:drawableRight="@drawable/arrow"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:background="#64B5F6"
+        android:text="Chapterwise Questions(MAINS)"/>
+    <Button
+        android:drawableRight="@drawable/arrow"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:background="#64B5F6"
+        android:text="Chapterwise Questions(advance)"/>
+    <Button
+        android:drawableRight="@drawable/arrow"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:background="#64B5F6"
+        android:text="Test Papers(MAINS)"/>
+    <Button
+        android:drawableRight="@drawable/arrow"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:background="#64B5F6"
+        android:text="Test Papers(advance)"/>
+    <Button
+        android:drawableRight="@drawable/arrow"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:background="#64B5F6"
+        android:text="MY Bookmarks"/>
+    <Button
+        android:drawableRight="@drawable/arrow"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:background="#64B5F6"
+        android:text="My progress"/>
+
+</LinearLayout>

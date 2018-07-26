@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            android:title="Logout"/>
+    </group>
+
+    <item android:title="MY PROGRESS">
+        <menu>
+        <item
+            android:id="@+id/mathsp"
+            android:icon="@drawable/ic_edit_black_24dp"
+            android:title="Mathematics" />
+        <item
+            android:id="@+id/chemistryp"
+            android:icon="@drawable/ic_colorize_black_24dp"
+            android:title="Chemistry" />
+        <item
+            android:id="@+id/physicsp"
+            android:icon="@drawable/ic_power_black_24dp"
+            android:title="Physics" />
+        <item
+            android:id="@+id/allOver"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="Test Series" />
+    </menu>
+    </item>
+
+    <item android:title="PURCHASE PLANS AND INFO">
+        <menu>
+            <item
+                android:id="@+id/purchase"
+                android:icon="@drawable/ic_shopping_cart_black_24dp"
+                android:title="Purchase" />
+            <item
+                android:id="@+id/contact"
+                android:icon="@drawable/ic_call_black_24dp"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_info_outline_black_24dp"
+                android:title="About Us" />
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Share App" />
+        </menu>
+    </item>
+</menu>

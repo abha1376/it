@@ -1,0 +1,483 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:2:1-114:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1b623f552ab79d484fd39c5365550c63\AndroidManifest.xml:17:1-22:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\e143a2a3036d58aeb784e04588bd7dfc\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4dfd5a049fa0bd562fb6434a7f3d0d2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bd1b0aac6e9327d357632bcb588a90e0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\23cda13395e0aacad0e1727b54df95be\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\b86e7724591fc7061b1d9666a8e8c0c3\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\8adabb5b63e7f7e5d140d950e7ff0388\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\96872cc58295684330b51ca83da1b231\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\50b20893a313e7c1d6df95196cdec8ff\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\9d1fdfb6e6df332b4a979acacd4032d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\65eb34b3f0c4c1341395c3af0c67d6ca\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\af913dde04af5df695f8e1d80e3fde31\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\c8a9cea149fa4248c542dc3e7d9213d6\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\dbad2ecc7926d4ebb98e9159b56674df\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5366e4101596cb4fd1a35ab39b86f485\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\971d00154d5fb9f50a46a3547d0d3963\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e04aa48bce0c3a4048f5e855c62ab19f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\6699d93c9e0877274fb7c87e1a5f8cdb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\da3159f90245bdaeacd5519719a72ca6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d3de0ba9d58e99b8317c07e3c6299e98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e7e4399fdbc4b5d6ef2aa7096481ed90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\15e7b59096fc93d09150f20841e28432\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\71bd1b6c768869b98b43e27663152adf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7eae1cd2937cd0c927091248f4043cee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b2d558520b7164c09f58a0e93601ee07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f96cdb0028db3d964e13937f22cbf209\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7915fc1530a343fc98cd74bc38aab08d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a0f2e8c6b0491c15738ef9273daeebac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\438a6a0c76bc8d5208abc48983e67c22\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\65188bef9e84955ec366af9e4fa71d54\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f2e4d2e2c71b8548ca9bf46368ca8a11\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\b86e7724591fc7061b1d9666a8e8c0c3\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\b86e7724591fc7061b1d9666a8e8c0c3\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:7:5-32:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:15:5-112:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:15:5-112:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bd1b0aac6e9327d357632bcb588a90e0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bd1b0aac6e9327d357632bcb588a90e0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\8adabb5b63e7f7e5d140d950e7ff0388\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\8adabb5b63e7f7e5d140d950e7ff0388\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\65eb34b3f0c4c1341395c3af0c67d6ca\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\65eb34b3f0c4c1341395c3af0c67d6ca\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\af913dde04af5df695f8e1d80e3fde31\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\af913dde04af5df695f8e1d80e3fde31\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\dbad2ecc7926d4ebb98e9159b56674df\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\dbad2ecc7926d4ebb98e9159b56674df\AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:11:9-61
+	android:icon
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:13:9-44
+activity#com.example.abhatripathi.iitline.MainActivity
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.abhatripathi.iitline.ScreenOneActivity
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:21:9-24:51
+	android:label
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:23:13-47
+	android:theme
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:24:13-48
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:22:13-46
+activity#com.example.abhatripathi.iitline.chemistry
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:25:9-47
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:25:19-44
+activity#com.example.abhatripathi.iitline.physics
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:26:9-45
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:26:19-42
+activity#com.example.abhatripathi.iitline.maths
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:27:9-42
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:27:19-40
+activity#com.example.abhatripathi.iitline.mathsMainsTopics
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:28:19-51
+activity#com.example.abhatripathi.iitline.mathsMainsRecycler
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:29:9-55
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:29:19-53
+activity#com.example.abhatripathi.iitline.googleLogin
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:30:9-48
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:30:19-46
+activity#com.example.abhatripathi.iitline.TestSeries
+ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:31:9-47
+	android:name
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml:31:19-45
+uses-sdk
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1b623f552ab79d484fd39c5365550c63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1b623f552ab79d484fd39c5365550c63\AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\e143a2a3036d58aeb784e04588bd7dfc\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\e143a2a3036d58aeb784e04588bd7dfc\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4dfd5a049fa0bd562fb6434a7f3d0d2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4dfd5a049fa0bd562fb6434a7f3d0d2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bd1b0aac6e9327d357632bcb588a90e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bd1b0aac6e9327d357632bcb588a90e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\23cda13395e0aacad0e1727b54df95be\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\23cda13395e0aacad0e1727b54df95be\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\b86e7724591fc7061b1d9666a8e8c0c3\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\b86e7724591fc7061b1d9666a8e8c0c3\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\8adabb5b63e7f7e5d140d950e7ff0388\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\8adabb5b63e7f7e5d140d950e7ff0388\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\96872cc58295684330b51ca83da1b231\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\96872cc58295684330b51ca83da1b231\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\50b20893a313e7c1d6df95196cdec8ff\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\50b20893a313e7c1d6df95196cdec8ff\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\9d1fdfb6e6df332b4a979acacd4032d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\9d1fdfb6e6df332b4a979acacd4032d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\65eb34b3f0c4c1341395c3af0c67d6ca\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\65eb34b3f0c4c1341395c3af0c67d6ca\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\af913dde04af5df695f8e1d80e3fde31\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\af913dde04af5df695f8e1d80e3fde31\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\c8a9cea149fa4248c542dc3e7d9213d6\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\c8a9cea149fa4248c542dc3e7d9213d6\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\dbad2ecc7926d4ebb98e9159b56674df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\dbad2ecc7926d4ebb98e9159b56674df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5366e4101596cb4fd1a35ab39b86f485\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5366e4101596cb4fd1a35ab39b86f485\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\971d00154d5fb9f50a46a3547d0d3963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\971d00154d5fb9f50a46a3547d0d3963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e04aa48bce0c3a4048f5e855c62ab19f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e04aa48bce0c3a4048f5e855c62ab19f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\6699d93c9e0877274fb7c87e1a5f8cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\6699d93c9e0877274fb7c87e1a5f8cdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\da3159f90245bdaeacd5519719a72ca6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\da3159f90245bdaeacd5519719a72ca6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d3de0ba9d58e99b8317c07e3c6299e98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d3de0ba9d58e99b8317c07e3c6299e98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e7e4399fdbc4b5d6ef2aa7096481ed90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e7e4399fdbc4b5d6ef2aa7096481ed90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\15e7b59096fc93d09150f20841e28432\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\15e7b59096fc93d09150f20841e28432\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\71bd1b6c768869b98b43e27663152adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\71bd1b6c768869b98b43e27663152adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7eae1cd2937cd0c927091248f4043cee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7eae1cd2937cd0c927091248f4043cee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b2d558520b7164c09f58a0e93601ee07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b2d558520b7164c09f58a0e93601ee07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f96cdb0028db3d964e13937f22cbf209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f96cdb0028db3d964e13937f22cbf209\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7915fc1530a343fc98cd74bc38aab08d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7915fc1530a343fc98cd74bc38aab08d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a0f2e8c6b0491c15738ef9273daeebac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a0f2e8c6b0491c15738ef9273daeebac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\438a6a0c76bc8d5208abc48983e67c22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\438a6a0c76bc8d5208abc48983e67c22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\65188bef9e84955ec366af9e4fa71d54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\65188bef9e84955ec366af9e4fa71d54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f2e4d2e2c71b8548ca9bf46368ca8a11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f2e4d2e2c71b8548ca9bf46368ca8a11\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abha tripathi\Desktop\repository\iit\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\dbad2ecc7926d4ebb98e9159b56674df\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\dbad2ecc7926d4ebb98e9159b56674df\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:33:9-37:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:36:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:34:13-86
+activity#com.firebase.ui.auth.ui.provider.GitHubLoginActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:38:9-58:20
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:41:13-29
+	android:launchMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:42:13-43
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:40:13-96
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:43:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:39:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/firebase_web_host+data:path:/__/auth/handler+data:scheme:https
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:44:13-57:29
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:46:17-47
+	android:autoVerify
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:45:17-42
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:47:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:49:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:50:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:50:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:52:17-56:64
+	android:path
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:54:21-52
+	android:host
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:53:21-61
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:55:21-43
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:56:21-61
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:59:9-63:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:62:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:63:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:60:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:64:9-68:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:67:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:68:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:65:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:69:9-73:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:72:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:73:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:70:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:74:9-78:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:77:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:78:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:75:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:79:9-83:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:82:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:83:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:80:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:84:9-87:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:87:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:85:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:88:9-92:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:91:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:92:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:90:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:89:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:93:9-105:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:95:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:96:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:94:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:97:13-104:29
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:107:9-111:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:109:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:110:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:111:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.1.0.aar\dc8b2dd638f3f3ee68df76b940e12932\AndroidManifest.xml:108:13-79
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\61919a148ecba3cf9a630103f7462232\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:31:9-35:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\04bd3b8e9a781f28b2cebcdd6fe34b29\AndroidManifest.xml:33:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\58002bfd9ea178cdb709707af75ff768\AndroidManifest.xml:10:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\65eb34b3f0c4c1341395c3af0c67d6ca\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\65eb34b3f0c4c1341395c3af0c67d6ca\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\65eb34b3f0c4c1341395c3af0c67d6ca\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\65eb34b3f0c4c1341395c3af0c67d6ca\AndroidManifest.xml:24:13-79
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\abha tripathi\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\0aa82276d864aff5e9158ec329784b7a\AndroidManifest.xml:24:13-83
