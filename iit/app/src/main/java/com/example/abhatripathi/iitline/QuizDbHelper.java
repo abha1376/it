@@ -54,15 +54,15 @@ public class QuizDbHelper extends SQLiteOpenHelper{
     }
 
     private void fillQuestionsTable() {
-        TestQuestion q1=new TestQuestion("A is correct","A","B","C","D",1);
+        TestQuestion q1=new TestQuestion("Are you dumb?","Yes","No","You don't know","Maybe",1);
         addQuestion(q1);
-        TestQuestion q2=new TestQuestion("B is correct","A","B","C","D",2);
+        TestQuestion q2=new TestQuestion("Sun rises in which direction?","East","West","North","South",1);
         addQuestion(q2);
-        TestQuestion q3=new TestQuestion("C is correct","A","B","C","D",3);
+        TestQuestion q3=new TestQuestion("Dummy Question 3","A","B","C","D",3);
         addQuestion(q3);
-        TestQuestion q4=new TestQuestion("A is correct again","A","B","C","D",1);
+        TestQuestion q4=new TestQuestion("Dummy question with answer A","A","B","C","D",1);
         addQuestion(q4);
-        TestQuestion q5=new TestQuestion("B is correct again","A","B","C","D",2);
+        TestQuestion q5=new TestQuestion("Dummy question with answer D","A","B","C","D",4);
         addQuestion(q5);
     }
 

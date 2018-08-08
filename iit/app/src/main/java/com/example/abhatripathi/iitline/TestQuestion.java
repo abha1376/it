@@ -2,23 +2,25 @@ package com.example.abhatripathi.iitline;
 
 public class TestQuestion {
     private String question;
-    private String optionl;
+    private String option1;
     private String option2;
+    private String option3;
+    private String option4;
+    private int answer;
+
     public TestQuestion() {
     }
 
     public TestQuestion(String question, String optionl, String option2, String option3, String option4, int answer) {
         this.question = question;
-        this.optionl = optionl;
+        this.option1 = optionl;
         this.option2 = option2;
         this.option3 = option3;
         this.option4 = option4;
         this.answer = answer;
     }
 
-    private String option3;
-    private String option4;
-    private int answer;
+
 
 
 
@@ -33,11 +35,11 @@ public class TestQuestion {
     }
 
     public String getOptionl() {
-        return optionl;
+        return option1;
     }
 
     public void setOptionl(String optionl) {
-        this.optionl = optionl;
+        this.option1 = optionl;
     }
 
     public String getOption2() {
