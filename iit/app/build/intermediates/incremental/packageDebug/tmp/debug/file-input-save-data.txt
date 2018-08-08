@@ -1,12 +1,12 @@
 #Internal package file, do not edit.
-#Wed Jul 25 23:44:09 IST 2018
-2.base=C\:\\Users\\abha tripathi\\Desktop\\repository\\iit\\app\\build\\intermediates\\assets\\debug
+#Wed Aug 08 14:52:22 IST 2018
+2.base=/Users/ananthrajsingh/StudioProjects/it/iit/app/build/intermediates/assets/debug
 0.path=classes.dex
 2.baseType=DIRECTORY
-3.base=C\:\\Users\\abha tripathi\\Desktop\\repository\\iit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+3.base=/Users/ananthrajsingh/StudioProjects/it/iit/app/build/intermediates/transforms/dexMerger/debug/14
 2.set=ASSET
 1.path=classes.dex
-4.base=C\:\\Users\\abha tripathi\\Desktop\\repository\\iit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+4.base=/Users/ananthrajsingh/StudioProjects/it/iit/app/build/intermediates/transforms/dexMerger/debug/11
 count=5
 2.path=crashlytics-build.properties
 4.set=DEX
@@ -15,9 +15,9 @@ count=5
 1.set=DEX
 4.path=classes.dex
 1.baseType=DIRECTORY
-0.base=C\:\\Users\\abha tripathi\\Desktop\\repository\\iit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+0.base=/Users/ananthrajsingh/StudioProjects/it/iit/app/build/intermediates/transforms/dexMerger/debug/12
 0.baseType=DIRECTORY
 3.set=DEX
-1.base=C\:\\Users\\abha tripathi\\Desktop\\repository\\iit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+1.base=/Users/ananthrajsingh/StudioProjects/it/iit/app/build/intermediates/transforms/dexMerger/debug/13
 4.baseType=DIRECTORY
 0.set=DEX

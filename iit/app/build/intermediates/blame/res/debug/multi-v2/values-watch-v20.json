@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\abha tripathi\\Desktop\\repository\\iit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "/Users/ananthrajsingh/StudioProjects/it/iit/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\abha tripathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4dfd5a049fa0bd562fb6434a7f3d0d2a\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "/Users/ananthrajsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8c3e105215a0fc8a0fcb6600cb588749/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\abha tripathi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-15.0.1.aar\\61919a148ecba3cf9a630103f7462232\\res\\values-watch-v20\\values.xml",
+                    "source": "/Users/ananthrajsingh/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/e89d6ad2a5d83b1aff0e29173551b676/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
