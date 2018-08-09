@@ -10,9 +10,18 @@ public class quizDisplay {
     String option2;
     String option3;
     String option4;
+    int answer;
 
 
-    public quizDisplay(String questionNumber, String question, String explanation, String option1, String option2, String option3, String option4) {
+    public int getAnswer() {
+        return answer;
+    }
+
+    public void setAnswer(int answer) {
+        this.answer = answer;
+    }
+
+    public quizDisplay(String questionNumber, String question, String explanation, String option1, String option2, String option3, String option4, int answer) {
         this.questionNumber = questionNumber;
         this.question = question;
         this.explanation = explanation;
@@ -20,6 +29,7 @@ public class quizDisplay {
         this.option2 = option2;
         this.option3 = option3;
         this.option4 = option4;
+        this.answer = answer;
     }
 
     public String getQuestionNumber() {

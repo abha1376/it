@@ -6,6 +6,7 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v7.widget.CardView;
 import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -32,22 +33,44 @@ import java.util.Arrays;
 public class ScreenOneActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
     Button btn,btn1,btn2,btn3;
+    CardView mMathsCardView;
+    private CardView mChemCardView;
+    private CardView mPhyCardView;
+    private CardView mTestCardView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.screen_one);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        /* This will show hamburger icon in toolbar */
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
+                this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+        drawer.addDrawerListener(toggle);
+        toggle.syncState();
+
+        mMathsCardView = findViewById(R.id.maths_cardview);
+        mChemCardView = findViewById(R.id.chem_cardView);
+        mPhyCardView = findViewById(R.id.phy_cardview);
+        mTestCardView = findViewById(R.id.test_cardview);
+
+
         btn=findViewById(R.id.mathsm);
-        btn.setOnClickListener(new View.OnClickListener() {
+        mMathsCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i=new Intent(ScreenOneActivity.this,maths.class);
                 startActivity(i);
             }
         });
+
+
+
+
         btn1=findViewById(R.id.chemistrym);
-        btn1.setOnClickListener(new View.OnClickListener() {
+        mChemCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(ScreenOneActivity.this, chemistry.class);
@@ -55,7 +78,7 @@ public class ScreenOneActivity extends AppCompatActivity
             }
         });
         btn2=findViewById(R.id.physicsm);
-        btn2.setOnClickListener(new View.OnClickListener() {
+        mPhyCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(ScreenOneActivity.this, physics.class);
@@ -63,7 +86,7 @@ public class ScreenOneActivity extends AppCompatActivity
             }
         });
         btn3=findViewById(R.id.testm);
-        btn3.setOnClickListener(new View.OnClickListener() {
+        mTestCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(ScreenOneActivity.this, TestSeries.class);
@@ -81,14 +104,7 @@ public class ScreenOneActivity extends AppCompatActivity
 //            }
 //        });
 
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-                this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
-        drawer.addDrawerListener(toggle);
-        toggle.syncState();
 
-        NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
-        navigationView.setNavigationItemSelectedListener(this);
     }
 
     @Override

@@ -24,6 +24,11 @@
         android:textColor="#000000"
         android:textSize="30sp" />
 
+    <RadioGroup
+        android:id="@+id/radio_group_question_fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:soundEffectsEnabled="true">
     <RadioButton
         android:id="@+id/radioButton1"
         android:layout_width="match_parent"
@@ -59,6 +64,7 @@
         android:text="RadioButton"
         android:textColor="#000000"
         android:textSize="24sp" />
+    </RadioGroup>
 
     <Button
         android:id="@+id/explanation"

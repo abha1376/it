@@ -7,7 +7,9 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.Button;
+import android.widget.RadioGroup;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -15,6 +17,7 @@ import java.util.ArrayList;
 public class AdapterMaths1 extends RecyclerView.Adapter<AdapterMaths1.MyViewHolder> {
     private ArrayList<quizDisplay> MathsArrayList;
     private Context context;
+    private ItemClickListener mClickListener;
 
     public AdapterMaths1(ArrayList<quizDisplay> quizDisplays, Context ctx) {
         MathsArrayList = quizDisplays;
@@ -49,9 +52,15 @@ public class AdapterMaths1 extends RecyclerView.Adapter<AdapterMaths1.MyViewHold
         return MathsArrayList.size();
     }
 
-    class MyViewHolder extends RecyclerView.ViewHolder{
-        TextView questionNumber,question,explanation;
-        Button option1,option2,option3,option4;
+    class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
+        TextView questionNumber;
+        TextView question;
+        TextView explanation;
+        Button option1;
+        Button option2;
+        Button option3;
+        Button option4;
+        RadioGroup radioGroup;
 
         public MyViewHolder(View itemView) {
             super(itemView);
@@ -62,8 +71,48 @@ public class AdapterMaths1 extends RecyclerView.Adapter<AdapterMaths1.MyViewHold
             option2 = itemView.findViewById(R.id.radioButton2);
             option3 = itemView.findViewById(R.id.radioButton3);
             option4 = itemView.findViewById(R.id.radioButton4);
+            option1.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    mClickListener.onOptionClick(option1, option2, option3, option4, getAdapterPosition());
+                }
+            });
+            option2.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    mClickListener.onOptionClick(option1, option2, option3, option4, getAdapterPosition());
+                }
+            });
+            option3.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    mClickListener.onOptionClick(option1, option2, option3, option4, getAdapterPosition());
+                }
+            });
+            option4.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    mClickListener.onOptionClick(option1, option2, option3, option4, getAdapterPosition());
+                }
+            });
+
+        }
+
+        @Override
+        public void onClick(View view) {
+
         }
     }
+    public void setClickListener(AdapterMaths1.ItemClickListener itemClickListener) {
+        this.mClickListener = itemClickListener;
+    }
 
+    // parent activity will implement this method to respond to click events
+    public interface ItemClickListener {
+        void onOptionClick(View view1,View view2,View view3,View view4, int position);
+//
+
+        void onSubmitClick(View view, int position);
+    }
 }
 

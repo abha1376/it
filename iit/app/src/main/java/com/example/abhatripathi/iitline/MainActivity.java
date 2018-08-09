@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            Intent i = new Intent(MainActivity.this, googleLogin.class);
+                            Intent i = new Intent(MainActivity.this, ScreenOneActivity.class);
                             startActivity(i);
                             finish();
                         }
